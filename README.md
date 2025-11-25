@@ -11,7 +11,7 @@
 
 ---
 
-# 🔍 Project Overview
+#  Project Overview
 
 **DataSpeak** is an intelligent **Natural Language → SQL** system that lets anyone query a dataset using simple English, without writing SQL.
 
@@ -30,13 +30,8 @@ The workflow:
 5. SQLite runs the SQL safely  
 6. Streamlit shows results + generated SQL  
 7. User can download results as CSV  
-8. Last 10 query history is stored  
-
-This is a **production-style, portfolio-grade, full-stack AI project** ideal for **ML/Data Engineer** job applications.
-
----
-
-# ⭐ Why Recruiters Love This Project
+8. Last 10 query history is stored
+   
 
 | Skill Demonstrated | Why It Matters |
 |-------------------|----------------|
@@ -48,11 +43,9 @@ This is a **production-style, portfolio-grade, full-stack AI project** ideal for
 | Streamlit full-stack app | UI + backend integration |
 | Robust error handling | Professional engineering practice |
 
-This project proves you can build **end-to-end AI-powered data products**.
-
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ```
        ┌──────────────────┐
@@ -82,7 +75,7 @@ This project proves you can build **end-to-end AI-powered data products**.
 
 ---
 
-# 🔧 Tech Stack & Tools — Explained Clearly
+#  Tech Stack & Tools — Explained Clearly
 
 ### **1️⃣ Streamlit — Frontend UI**
 - File upload  
@@ -212,9 +205,9 @@ Visit:
 
 ---
 
-# 🧪 Example Questions to Test the App
+# Example Questions to Test the App
 
-### 🧑‍💼 HR Dataset
+### HR Dataset
 - “Show average age of employees by department.”
 - “Employees with more than 5 years experience.”
 - “Attrition rate by gender.”
@@ -235,7 +228,7 @@ Visit:
 
 ---
 
-# 🏆 Highlights for Recruiters
+# 🏆 Highlights:
 
 ### ✔️ LLM + Data Engineering  
 Uses Groq Llama-3.1 + full SQL pipeline.
@@ -254,12 +247,12 @@ Data analysts can use it immediately.
 
 ---
 
-# 👨‍💻 About the Developer
+#  About the Developer
 **Omkar Chakali**  
-AI/ML Engineer | Data Science | Full-Stack AI Apps  
+Aspiring AI/ML Engineer | Data Science | Full-Stack AI Apps  
 Passionate about building real-world AI-powered products.
 
-LinkedIn: *add your link*  
+LinkedIn: https://www.linkedin.com/in/omkar1872/ 
 GitHub: https://github.com/omkar1872  
 
 ---
@@ -272,3 +265,4 @@ This project is under the **MIT License**.
 # ⭐ If you like this project…
 Give the repo a ⭐ star and share it!  
 Your support motivates more AI builds ❤️
+
