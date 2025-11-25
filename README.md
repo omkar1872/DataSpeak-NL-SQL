@@ -1,13 +1,7 @@
-# 💬 DataSpeak – Natural Language → SQL with Streamlit + Groq + SQLite
+#  DataSpeak – Natural Language → SQL with Streamlit + Groq + SQLite
 
 > **Ask questions in English → Get SQL + Results instantly.**  
 > DataSpeak transforms natural language into executable SQL using Groq’s Llama-3.1 model, safely runs it on SQLite, and displays results in an interactive Streamlit UI.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/DataSpeak/main/output.png" width="95%" />
-</p>
 
 ---
 
@@ -184,7 +178,29 @@ http://localhost:8501
 
 ```
 
+## 📸 Output Screenshots
+
+Below are the actual outputs and UI screens from the DataSpeak – NL → SQL application:
+
+<p align="center">
+  <img src="./output.png" alt="Output Screenshot 1" width="95%" />
+</p>
+
+<p align="center">
+  <img src="./output_1.png" alt="Output Screenshot 2" width="95%" />
+</p>
+
+<p align="center">
+  <img src="./output_2.png" alt="Output Screenshot 3" width="95%" />
+</p>
+
+<p align="center">
+  <img src="./output_3.png" alt="Output Screenshot 4" width="95%" />
+</p>
+
+
 
 
 
   
+
