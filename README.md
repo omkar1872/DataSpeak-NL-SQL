@@ -1,1 +1,0 @@
-# DataSpeak-NL-SQL

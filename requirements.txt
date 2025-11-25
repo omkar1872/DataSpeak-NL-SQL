@@ -1,0 +1,6 @@
+streamlit==1.26.1
+pandas==2.1.0
+python-dotenv==1.0.1
+groq==0.13.0
+sqlalchemy==2.0.20
+numpy==1.26.4
